@@ -1,0 +1,527 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Pro-Kristina.local",
+    "children" : [ {
+      "name" : "4734@MacBook-Pro-Kristina.local.Test worker(13)",
+      "children" : [ {
+        "name" : "longPhoneNumber()",
+        "uid" : "6bfdb470effc267d",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493031484,
+          "stop" : 1646493052303,
+          "duration" : 20819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "nameWithЁInName()",
+        "uid" : "80114500893a82b0",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493089542,
+          "stop" : 1646493106249,
+          "duration" : 16707
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "emptyPhoneNumber()",
+        "uid" : "547740cb74205131",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493071664,
+          "stop" : 1646493072418,
+          "duration" : 754
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "emptyFields()",
+        "uid" : "dececf565b0bb3d2",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493072420,
+          "stop" : 1646493073010,
+          "duration" : 590
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "correctDataWithCompoundName()",
+        "uid" : "43b389fff311e7f7",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493106254,
+          "stop" : 1646493107634,
+          "duration" : 1380
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "nameWithHyphen()",
+        "uid" : "435578ffefa3fb7c",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493108721,
+          "stop" : 1646493109702,
+          "duration" : 981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "wrongDate()",
+        "uid" : "a5c1ad37a94eb807",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493070772,
+          "stop" : 1646493071662,
+          "duration" : 890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "emptyCity()",
+        "uid" : "5794a8f8962370eb",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493069014,
+          "stop" : 1646493069980,
+          "duration" : 966
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "uncheckedBox()",
+        "uid" : "a4776f7791861b30",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493109704,
+          "stop" : 1646493110570,
+          "duration" : 866
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "latinInName()",
+        "uid" : "575c75fa1dd6cf23",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493111400,
+          "stop" : 1646493112246,
+          "duration" : 846
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "latinInCity()",
+        "uid" : "bcbfd2783fa1796f",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493110573,
+          "stop" : 1646493111397,
+          "duration" : 824
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shortPhoneNumber()",
+        "uid" : "c1efd1601e558c3c",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493052379,
+          "stop" : 1646493069006,
+          "duration" : 16627
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "correctData()",
+        "uid" : "3aed24712c94790b",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493107637,
+          "stop" : 1646493108719,
+          "duration" : 1082
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "wrongPhoneNumberFormat()",
+        "uid" : "fb630c08f84ba262",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493073012,
+          "stop" : 1646493089537,
+          "duration" : 16525
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "emptyName()",
+        "uid" : "da56f5a005135f10",
+        "parentUid" : "c8cf848389882053da0af11d63d867b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493069983,
+          "stop" : 1646493070770,
+          "duration" : 787
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c8cf848389882053da0af11d63d867b1"
+    }, {
+      "name" : "4833@MacBook-Pro-Kristina.local.Test worker(13)",
+      "children" : [ {
+        "name" : "emptyName()",
+        "uid" : "83d378caa97a754d",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493453832,
+          "stop" : 1646493454643,
+          "duration" : 811
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "nameWithЁInName()",
+        "uid" : "e700f61741fc4096",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493473604,
+          "stop" : 1646493490143,
+          "duration" : 16539
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "uncheckedBox()",
+        "uid" : "9814786fd336b7d5",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493493142,
+          "stop" : 1646493493940,
+          "duration" : 798
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "longPhoneNumber()",
+        "uid" : "1509649e3c859723",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493415791,
+          "stop" : 1646493436225,
+          "duration" : 20434
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "wrongDate()",
+        "uid" : "15ffa3c19d2e7321",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493454704,
+          "stop" : 1646493455643,
+          "duration" : 939
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shortPhoneNumber()",
+        "uid" : "a8f82b64dabe6f6c",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493436304,
+          "stop" : 1646493452901,
+          "duration" : 16597
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "emptyPhoneNumber()",
+        "uid" : "7bb0cd465d5be1d7",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493455646,
+          "stop" : 1646493456488,
+          "duration" : 842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "wrongPhoneNumberFormat()",
+        "uid" : "e01980f1dcb1e69",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493457107,
+          "stop" : 1646493473600,
+          "duration" : 16493
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "latinInCity()",
+        "uid" : "f4cfb91b28f26be7",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493493943,
+          "stop" : 1646493494816,
+          "duration" : 873
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "emptyFields()",
+        "uid" : "3e41926b88db30a7",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493456490,
+          "stop" : 1646493457103,
+          "duration" : 613
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "correctDataWithCompoundName()",
+        "uid" : "1699a7ff60bed9c",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493490148,
+          "stop" : 1646493491220,
+          "duration" : 1072
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "nameWithHyphen()",
+        "uid" : "b4a2f2ba2babdb98",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493492193,
+          "stop" : 1646493493140,
+          "duration" : 947
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "emptyCity()",
+        "uid" : "a42466d2dcdcb9ba",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493452908,
+          "stop" : 1646493453829,
+          "duration" : 921
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "latinInName()",
+        "uid" : "bf158b045eade22b",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493494818,
+          "stop" : 1646493495540,
+          "duration" : 722
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "correctData()",
+        "uid" : "2b6ba8197a732a1c",
+        "parentUid" : "e1fff3cc18c451ad4db195c1e487c2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646493491222,
+          "stop" : 1646493492190,
+          "duration" : 968
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e1fff3cc18c451ad4db195c1e487c2da"
+    } ],
+    "uid" : "1bac6f7f9b997c3d48171960df5a773e"
+  } ]
+}

@@ -1,0 +1,283 @@
+{
+  "uid" : "da56f5a005135f10",
+  "name" : "emptyName()",
+  "fullName" : "ru.netology.test.ApplicationFormTests.emptyName",
+  "historyId" : "feceac86365ad9f57e9ca5387841b669",
+  "time" : {
+    "start" : 1646493069983,
+    "stop" : 1646493070770,
+    "duration" : 787
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUpAll",
+    "time" : {
+      "start" : 1646493031244,
+      "stop" : 1646493031253,
+      "duration" : 9
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1646493069984,
+      "stop" : 1646493070078,
+      "duration" : 94
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "$(\"open\") http://localhost:9999/",
+      "time" : {
+        "start" : 1646493069984,
+        "stop" : 1646493070078,
+        "duration" : 94
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "$(\"[class='input__control'][type='tel']\") double click()",
+      "time" : {
+        "start" : 1646493070079,
+        "stop" : 1646493070249,
+        "duration" : 170
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"[class='input__control'][type='tel']\") send keys()",
+      "time" : {
+        "start" : 1646493070249,
+        "stop" : 1646493070283,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"[class='input__control'][type='tel']\") append(10.03.2022)",
+      "time" : {
+        "start" : 1646493070283,
+        "stop" : 1646493070336,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"[class='input__control'][type='tel']\") press enter()",
+      "time" : {
+        "start" : 1646493070337,
+        "stop" : 1646493070367,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"[type=\"text\"]\") set value(Улан-Удэ)",
+      "time" : {
+        "start" : 1646493070367,
+        "stop" : 1646493070472,
+        "duration" : 105
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"[name=\"name\"]\") set value()",
+      "time" : {
+        "start" : 1646493070472,
+        "stop" : 1646493070512,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"[name=\"phone\"]\") set value(+7(951)015-10-39)",
+      "time" : {
+        "start" : 1646493070512,
+        "stop" : 1646493070639,
+        "duration" : 127
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.className: checkbox__box\") click()",
+      "time" : {
+        "start" : 1646493070640,
+        "stop" : 1646493070682,
+        "duration" : 42
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: Запланировать\") click()",
+      "time" : {
+        "start" : 1646493070682,
+        "stop" : 1646493070744,
+        "duration" : 62
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: Запланировать\") click()",
+      "time" : {
+        "start" : 1646493070744,
+        "stop" : 1646493070769,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 10,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDownAll",
+    "time" : {
+      "start" : 1646493112249,
+      "stop" : 1646493112249,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:ru.netology.test.ApplicationFormTests]/[method:emptyName()]"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-Kristina.local"
+  }, {
+    "name" : "thread",
+    "value" : "4734@MacBook-Pro-Kristina.local.Test worker(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.netology.test.ApplicationFormTests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.netology.test.ApplicationFormTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "emptyName"
+  }, {
+    "name" : "suite",
+    "value" : "ru.netology.test.ApplicationFormTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da56f5a005135f10.json",
+  "parameterValues" : [ ]
+}

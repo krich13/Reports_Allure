@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "63fb0feb945c78ee760f367eb40d282c",
+    "name" : "ru.netology.test.ApplicationFormTests",
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 15
+    }
+  } ]
+}

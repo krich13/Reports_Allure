@@ -1,0 +1,291 @@
+{
+  "99484afe1ca1b714bc7656b0de1d4314" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e41926b88db30a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493456490,
+        "stop" : 1646493457103,
+        "duration" : 613
+      }
+    } ]
+  },
+  "3b1abc729769fbdec15f48b28a61e0f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b6ba8197a732a1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493491222,
+        "stop" : 1646493492190,
+        "duration" : 968
+      }
+    } ]
+  },
+  "258887d08d38bc9bb1f37b20314a5b46" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1699a7ff60bed9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493490148,
+        "stop" : 1646493491220,
+        "duration" : 1072
+      }
+    } ]
+  },
+  "56dd56201a0fa8133f14f6750bf6967e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e01980f1dcb1e69",
+      "status" : "failed",
+      "statusDetails" : "Element not found {with text: Поле обязательно для заполнения.Телефон указан неверно. Должно быть 11 цифр, например, +79012345678.}\nExpected: visible\nScreenshot: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493473096.2.png\nPage source: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493473096.2.html\nTimeout: 15 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//*/text()[contains(normalize-space(translate(string(.), '",
+      "time" : {
+        "start" : 1646493457107,
+        "stop" : 1646493473600,
+        "duration" : 16493
+      }
+    } ]
+  },
+  "feceac86365ad9f57e9ca5387841b669" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83d378caa97a754d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493453832,
+        "stop" : 1646493454643,
+        "duration" : 811
+      }
+    } ]
+  },
+  "3bc0761263cf8ec1313e3091673b0e20" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4a2f2ba2babdb98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493492193,
+        "stop" : 1646493493140,
+        "duration" : 947
+      }
+    } ]
+  },
+  "2705e7ff6479907f62c64216d029965f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8f82b64dabe6f6c",
+      "status" : "failed",
+      "statusDetails" : "Element not found {with text: Поле обязательно для заполнения.Телефон указан неверно. Должно быть 11 цифр, например, +79012345678.}\nExpected: visible\nScreenshot: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493452445.1.png\nPage source: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493452445.1.html\nTimeout: 15 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//*/text()[contains(normalize-space(translate(string(.), '",
+      "time" : {
+        "start" : 1646493436304,
+        "stop" : 1646493452901,
+        "duration" : 16597
+      }
+    } ]
+  },
+  "1fee11fe210da1d27b7e49f53a0347ef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf158b045eade22b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493494818,
+        "stop" : 1646493495540,
+        "duration" : 722
+      }
+    } ]
+  },
+  "13c41e4cf54ed1251cb747e098d5c0d3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1509649e3c859723",
+      "status" : "failed",
+      "statusDetails" : "Element not found {with text: Поле обязательно для заполнения.Телефон указан неверно. Должно быть 11 цифр, например, +79012345678.}\nExpected: visible\nScreenshot: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493435723.0.png\nPage source: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493435723.0.html\nTimeout: 15 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//*/text()[contains(normalize-space(translate(string(.), '",
+      "time" : {
+        "start" : 1646493415791,
+        "stop" : 1646493436225,
+        "duration" : 20434
+      }
+    } ]
+  },
+  "2a02a8be03cc986de24db6ac1e16c8b6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e700f61741fc4096",
+      "status" : "failed",
+      "statusDetails" : "Element should visible {with text: Успешно!}\nElement: '<div class=\"notification__title\" displayed:false></div>'\nActual value: hidden\nScreenshot: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493489660.3.png\nPage source: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493489660.3.html\nTimeout: 15 s.",
+      "time" : {
+        "start" : 1646493473604,
+        "stop" : 1646493490143,
+        "duration" : 16539
+      }
+    } ]
+  },
+  "90ba871a43e67ec4da95fa0123a05fce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15ffa3c19d2e7321",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493454704,
+        "stop" : 1646493455643,
+        "duration" : 939
+      }
+    } ]
+  },
+  "1fba38270237542c373818057b705302" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bb0cd465d5be1d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493455646,
+        "stop" : 1646493456488,
+        "duration" : 842
+      }
+    } ]
+  },
+  "7304a33d1986445e9f5a25555a230881" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4cfb91b28f26be7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493493943,
+        "stop" : 1646493494816,
+        "duration" : 873
+      }
+    } ]
+  },
+  "d290515ecbeb279a0ff45580007153d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a42466d2dcdcb9ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493452908,
+        "stop" : 1646493453829,
+        "duration" : 921
+      }
+    } ]
+  },
+  "a24dcdd3b830905d45d74ee1f035dc58" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9814786fd336b7d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646493493142,
+        "stop" : 1646493493940,
+        "duration" : 798
+      }
+    } ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element not found {with text: Поле обязательно для заполнения.Телефон указан неверно. Должно быть 11 цифр, например, +79012345678.}\nExpected: visible\nScreenshot: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493435723.0.png\nPage source: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493435723.0.html\nTimeout: 15 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//*/text()[contains(normalize-space(translate(string(.), '",
+      "children" : [ {
+        "name" : "longPhoneNumber()",
+        "uid" : "1509649e3c859723",
+        "parentUid" : "9a8805b2cca5601f573b31c46d1790ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493415791,
+          "stop" : 1646493436225,
+          "duration" : 20434
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9a8805b2cca5601f573b31c46d1790ca"
+    }, {
+      "name" : "Element not found {with text: Поле обязательно для заполнения.Телефон указан неверно. Должно быть 11 цифр, например, +79012345678.}\nExpected: visible\nScreenshot: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493452445.1.png\nPage source: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493452445.1.html\nTimeout: 15 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//*/text()[contains(normalize-space(translate(string(.), '",
+      "children" : [ {
+        "name" : "shortPhoneNumber()",
+        "uid" : "a8f82b64dabe6f6c",
+        "parentUid" : "c53bcf3b6e0e83ec23924f7c98c3a2ef",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493436304,
+          "stop" : 1646493452901,
+          "duration" : 16597
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c53bcf3b6e0e83ec23924f7c98c3a2ef"
+    }, {
+      "name" : "Element not found {with text: Поле обязательно для заполнения.Телефон указан неверно. Должно быть 11 цифр, например, +79012345678.}\nExpected: visible\nScreenshot: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493473096.2.png\nPage source: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493473096.2.html\nTimeout: 15 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//*/text()[contains(normalize-space(translate(string(.), '",
+      "children" : [ {
+        "name" : "wrongPhoneNumberFormat()",
+        "uid" : "e01980f1dcb1e69",
+        "parentUid" : "26e6ffe212eb287f0221bed1e07aba10",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493457107,
+          "stop" : 1646493473600,
+          "duration" : 16493
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "26e6ffe212eb287f0221bed1e07aba10"
+    }, {
+      "name" : "Element should visible {with text: Успешно!}\nElement: '<div class=\"notification__title\" displayed:false></div>'\nActual value: hidden\nScreenshot: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493489660.3.png\nPage source: file:/Users/krich/IdeaProjects/PattAllure/build/reports/tests/1646493489660.3.html\nTimeout: 15 s.",
+      "children" : [ {
+        "name" : "nameWithЁInName()",
+        "uid" : "e700f61741fc4096",
+        "parentUid" : "6bd1fa69a50a8bc4b6785bca1680d7d7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646493473604,
+          "stop" : 1646493490143,
+          "duration" : 16539
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6bd1fa69a50a8bc4b6785bca1680d7d7"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
